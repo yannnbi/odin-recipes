@@ -1,0 +1,26 @@
+body {
+    color: rgba(230, 126, 34, 0.8);
+    background-color: rgba(236, 240, 241, 0.9);
+
+}
+
+div {
+    max-width: 640px;
+    margin: 50px;
+    padding: 50px;
+    background-color: rgba(189, 195, 199, 0.4);
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.title {
+    text-align: center;
+}
+
+#explanation {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+}
